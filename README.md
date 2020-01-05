@@ -23,3 +23,17 @@
 7. nos movemos al directorio react-frontend y ejecutamos:
 
    - npm run eject
+
+8. Vamos a la carpeta config y tenemos que modificar los archivos paths.js y webpack.config.js
+
+   - En el primero modificamos appBuild: resolveApp('../flask-backend/static/react')
+   - En el otro modificamos
+
+     miniCssExtractPlugin:
+     -filename: "css/[name].[contenthash:8].css"
+     -chunckFilename: "css/[name].[contenthash:8].chunk.css"
+
+     en htmlwebpackplugin, agregamos debajo de template:paths.appHtml
+     -filename: "../../templates/index.html"
+
+9. modificamos public/index.html en react-frontend
