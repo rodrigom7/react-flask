@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # react+flask
 
 1. Crear el directorio flask-backend, los subdirectorios static y templates, y el archivo main.py.
@@ -14,6 +13,3 @@
 
 5. creamos la app de react y lo llamamos react-frontend
    npx create-react-app react-frontend
-=======
-# react-flask
->>>>>>> f1201a677b56ee794d1f86f6b4cb2438d5ef4c15
