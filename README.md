@@ -15,4 +15,7 @@
    - pip install flask
 
 5. creamos la app de react y lo llamamos react-frontend
+
    - npx create-react-app react-frontend
+
+6. Modificamos el main.py
