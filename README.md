@@ -1,4 +1,4 @@
-# react-flask
+# react+flask
 
 1. Crear el directorio flask-backend, los subdirectorios static y templates, y el archivo main.py.
 
