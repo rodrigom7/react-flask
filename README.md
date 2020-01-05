@@ -39,3 +39,6 @@
 9. modificamos public/index.html en react-frontend
 
 10. modificamos App.js
+
+11. Agregamos en package.json debajo de -> "private": true
+    - "homepage": "/static/react"
