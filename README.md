@@ -37,3 +37,5 @@
      -filename: "../../templates/index.html"
 
 9. modificamos public/index.html en react-frontend
+
+10. modificamos App.js
