@@ -19,3 +19,7 @@
    - npx create-react-app react-frontend
 
 6. Modificamos el main.py
+
+7. nos movemos al directorio react-frontend y ejecutamos:
+
+   - npm run eject
