@@ -45,3 +45,5 @@
     - "homepage": "/static/react"
 
 12. Ejecutamos npm run build dentro de react-frontend
+
+13. nos movemos a flask-bankend y ejecutamos python main.py
