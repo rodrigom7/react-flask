@@ -41,4 +41,7 @@
 10. modificamos App.js
 
 11. Agregamos en package.json debajo de -> "private": true
+
     - "homepage": "/static/react"
+
+12. Ejecutamos npm run build dentro de react-frontend
